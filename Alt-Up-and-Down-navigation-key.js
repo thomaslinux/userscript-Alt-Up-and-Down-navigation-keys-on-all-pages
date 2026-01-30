@@ -4,7 +4,7 @@
 // @match       https://*/*
 // @match       http://*/*
 // @grant       none
-// @version     1.0
+// @version     2026.01.30.12.26
 // @author      thomaslinux + GPT-4o mini
 // @description Add the Alt Up and Down navigations key to all pages, tested
 // ==/UserScript==
